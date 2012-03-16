@@ -1,6 +1,7 @@
 # noir-toy
 
-A website written in noir. 
+A website written in [noir](http://www.webnoir.org/). You probably shouldn't even look at this code as it might teach you bad things as I awkwardly learn
+[Clojure](http://clojure.org/).
 
 ## Usage
 
